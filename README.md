@@ -37,7 +37,7 @@ A full-stack AI-powered interview preparation platform built with the MERN stack
 
 1. **Clone and navigate to the project:**
    ```bash
-   cd "c:\Users\ss509\OneDrive\Desktop\New folder"
+   cd "c:\Users\ss509\OneDrive\Desktop\AI Interview Prep"
    ```
 
 2. **Set up environment variables:**
